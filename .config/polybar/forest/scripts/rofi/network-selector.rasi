@@ -1,0 +1,64 @@
+/* network-selector.rasi */
+
+* {
+    background-color:       #15161EFF;
+    text-color:             #C0CAF5FF;
+	font:				 	"Meslo LGM Nerd Font 16";
+}
+window {
+    transparency:                "real";
+    location:                    center;
+    anchor:                      center;
+    fullscreen:                  false;
+    width:                       500px;
+    x-offset:                    0px;
+    y-offset:                    0px;
+
+    enabled:                     true;
+    margin:                      0px;
+    padding:                     0px;
+    border:                      0px solid;
+    border-radius:               12px;
+    border-color:                #414868FF;
+    background-color:            #15161EFF;
+    cursor:                      "default";
+}
+
+mainbox {
+    background-color: inherit;
+    padding: 10px;
+    border: 1px solid ;
+    border-radius: 5px;
+}
+
+listview {
+    fixed-height: 0;
+    border: 1px solid ;
+    border-radius: 5px;
+}
+
+element {
+    background-color: inherit;
+    border: 1px solid ;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+element selected {
+    background-color: #5e81ac;
+    border-radius: 5px;
+}
+
+element normal {
+    background-color: inherit;
+}
+
+inputbar {
+    spacing: 5px;
+    padding: 5px;
+}
+
+textbox {
+    text-color: #eceff4;
+}
