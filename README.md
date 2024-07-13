@@ -70,11 +70,11 @@ picom alacritty dunst polybar rofi zsh xclip greenclip maim nmcli pipewire bette
 
 A lot of the dependencies are already preinstalled with endeavour OS and I probably have missed some dependencies but just follow the errors.
 
-## Installation/Usage
+## Usage
 
 ```bash
 git clone https://github.com/asakshat/arch-dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
 
-Use GNU Stow tom manage the files or just copy whatever you need to $HOME/.config/
+Use GNU Stow to manage the files or just copy whatever you need to $HOME/.config/
