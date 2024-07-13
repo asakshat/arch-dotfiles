@@ -65,7 +65,7 @@ There are other small scripts included which are not shown below .
 Before installing the dotfiles, ensure you have the following dependencies installed on your system:
 
 ```
-picom alacritty dunst polybar rofi zsh xclip greenclip maim nmcli pipewire betterlockscreen networkmanager_dmenu
+zoxide fzf zsh picom alacritty dunst polybar rofi xclip greenclip maim nmcli pipewire betterlockscreen networkmanager_dmenu feh
 ```
 
 A lot of the dependencies are already preinstalled with endeavour OS and I probably have missed some dependencies but just follow the errors.
