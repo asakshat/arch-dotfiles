@@ -3,11 +3,11 @@
 This repository contains my personal dotfiles for a Linux setup using Arch Endeavour OS with the i3 window manager. Made it to reproduce same settings/configs in different machines. Most of the themes and configs were taken from
 rofi-themes and polybar-themes. I customized the given template , made some of my own widgets and scripts for the rest.
 
+Currently , I'm working on a custom bar with widgets using Elkowar's Wacky Widgets (EWW) . Most of the polybar configs that im using at the moment are presets made by someone else which don't work the same in my system and I have to tweak them a lot to work for me. At that point , why not make my own UI ? Amirite ?
+
 ## Pictures
 
 There are other small scripts included which are not shown below .
-
-Currently , I'm working on a custom bar with widgets using Elkowar's Wacky Widgets (EWW) . Most of the polybar configs that im using at the moment are presets made by someone else which don't work the same in my system and I have to tweak them a lot to work for me. At that point , why not make my own UI ? Amirite ? (I have no life).
 
 <details>
   <summary>Polybar</summary>
