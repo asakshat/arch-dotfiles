@@ -7,7 +7,7 @@ rofi-themes and polybar-themes. I customized the given template , made some of m
 
 There are other small scripts included which are not shown below .
 
-Currently , I'm working on a custom bar with widgets using Elkowar's Wacky Widgets (EWW) . Most of the polybar configs that im using at the moment are presets made by someone else which don't work the same in my system and I have to tweak them a lot to work for me. At that point , why not make my own UI ? Amirite ?
+Currently , I'm working on a custom bar with widgets using Elkowar's Wacky Widgets (EWW) . Most of the polybar configs that im using at the moment are presets made by someone else which don't work the same in my system and I have to tweak them a lot to work for me. At that point , why not make my own UI ? Amirite ? (I have no life).
 
 <details>
   <summary>Polybar</summary>
