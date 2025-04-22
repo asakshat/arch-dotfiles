@@ -1,0 +1,19 @@
+[/]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/']
+magnifier-zoom-in=['<Super>equal']
+magnifier-zoom-out=['<Super>minus']
+
+[custom-keybindings/custom0]
+binding='<Alt>Return'
+command='alacritty'
+name='terminal'
+
+[custom-keybindings/custom1]
+binding='<Alt>5'
+command='wmctrl -s 4'
+name='w5'
+
+[custom-keybindings/custom2]
+binding='<Alt>6'
+command='wmctrl -s 5'
+name='w6'

@@ -1,0 +1,182 @@
+[auto-move-windows]
+application-list=['com.discordapp.Discord.desktop:3', 'org.mozilla.firefox.desktop:1', 'code.desktop:2', 'com.valvesoftware.Steam.desktop:5']
+
+[blur-my-shell]
+settings-version=2
+
+[blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[blur-my-shell/dash-to-dock]
+blur=true
+brightness=0.59999999999999998
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[blur-my-shell/panel]
+brightness=0.59999999999999998
+sigma=30
+
+[blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[clipboard-history]
+cache-size=200
+toggle-menu=['<Alt>v']
+topbar-preview-size=1
+
+[color-picker]
+color-history=[uint32 15527405]
+
+[dash-to-dock]
+background-opacity=0.80000000000000004
+dash-max-icon-size=48
+dock-fixed=false
+dock-position='BOTTOM'
+height-fraction=0.90000000000000002
+preferred-monitor=-2
+preferred-monitor-by-connector='HDMI-1'
+
+[just-perfection]
+accessibility-menu=true
+animation=2
+background-menu=true
+controls-manager-spacing-size=0
+dash=true
+dash-icon-size=0
+double-super-to-appgrid=true
+max-displayed-search-results=0
+osd=true
+panel=true
+panel-in-overview=true
+ripple-box=true
+search=true
+show-apps-button=true
+startup-status=1
+support-notifier-showed-version=34
+support-notifier-type=0
+theme=true
+window-demands-attention-focus=false
+window-picker-icon=true
+window-preview-caption=true
+window-preview-close-button=true
+workspace=true
+workspace-background-corner-size=0
+workspace-popup=true
+workspace-switcher-should-show=false
+workspaces-in-app-grid=true
+
+[net/gfxmonk/impatience]
+speed-factor=0.25
+
+[openbar]
+bartype='Mainland'
+bg-change=true
+bgalpha=0.90000000000000002
+bguri='file:///usr/share/backgrounds/f41/default/f41-01-night.png'
+count1=383233
+count10=1193
+count11=582
+count12=1
+count2=151559
+count3=55966
+count4=46591
+count5=35670
+count6=24332
+count7=22056
+count8=17328
+count9=11489
+dark-bguri='file:///usr/share/backgrounds/f41/default/f41-01-night.png'
+dark-palette1=['20', '12', '92']
+dark-palette10=['129', '140', '172']
+dark-palette11=['20', '12', '96']
+dark-palette12=['20', '12', '96']
+dark-palette2=['35', '39', '122']
+dark-palette3=['91', '142', '215']
+dark-palette4=['183', '212', '243']
+dark-palette5=['28', '12', '92']
+dark-palette6=['228', '105', '88']
+dark-palette7=['28', '67', '183']
+dark-palette8=['20', '20', '92']
+dark-palette9=['99', '111', '166']
+default-font='Sans 12'
+height=31.0
+import-export=false
+light-bguri='file:///usr/share/backgrounds/f41/default/f41-01-day.png'
+light-palette1=['19', '140', '206']
+light-palette10=['240', '139', '75']
+light-palette11=['241', '92', '160']
+light-palette12=['132', '156', '156']
+light-palette2=['13', '139', '196']
+light-palette3=['57', '169', '223']
+light-palette4=['4', '116', '204']
+light-palette5=['110', '214', '248']
+light-palette6=['155', '229', '248']
+light-palette7=['67', '182', '239']
+light-palette8=['89', '191', '235']
+light-palette9=['44', '164', '218']
+monitor-height=1080
+monitor-width=1920
+palette1=['20', '12', '92']
+palette10=['129', '140', '172']
+palette11=['20', '12', '96']
+palette12=['20', '12', '96']
+palette2=['35', '39', '122']
+palette3=['91', '142', '215']
+palette4=['183', '212', '243']
+palette5=['28', '12', '92']
+palette6=['228', '105', '88']
+palette7=['28', '67', '183']
+palette8=['20', '20', '92']
+palette9=['99', '111', '166']
+pause-reload=false
+reloadstyle=true
+trigger-reload=false
+wmaxbar=false
+
+[search-light]
+animation-speed=100.0
+blur-brightness=0.59999999999999998
+blur-sigma=30.0
+entry-font-size=1
+monitor-count=1
+preferred-monitor=0
+scale-height=0.10000000000000001
+scale-width=0.10000000000000001
+shortcut-search=['<Alt>d']
+
+[space-bar/appearance]
+application-styles='.space-bar {\n  -natural-hpadding: 12px;\n}\n\n.space-bar-workspace-label.active {\n  margin: 0 4px;\n  background-color: rgba(255,255,255,0.3);\n  color: rgba(255,255,255,1);\n  border-color: rgba(0,0,0,0);\n  font-weight: 700;\n  border-radius: 4px;\n  border-width: 0px;\n  padding: 3px 8px;\n}\n\n.space-bar-workspace-label.inactive {\n  margin: 0 4px;\n  background-color: rgba(0,0,0,0);\n  color: rgba(255,255,255,1);\n  border-color: rgba(0,0,0,0);\n  font-weight: 700;\n  border-radius: 4px;\n  border-width: 0px;\n  padding: 3px 8px;\n}\n\n.space-bar-workspace-label.inactive.empty {\n  margin: 0 4px;\n  background-color: rgba(0,0,0,0);\n  color: rgba(255,255,255,0.5);\n  border-color: rgba(0,0,0,0);\n  font-weight: 700;\n  border-radius: 4px;\n  border-width: 0px;\n  padding: 3px 8px;\n}'
+
+[space-bar/state]
+version=33
+
+[switcher]
+activate-by-key=uint32 2
+activate-immediately=false
+fade-enable=false
+font-size=uint32 25
+icon-size=uint32 24
+launcher-stats='{"com.spotify.Client.desktop":4,"com.mattjakeman.ExtensionManager.desktop":1}'
+max-width-percentage=uint32 66
+show-switcher=['<Alt>d']
+workspace-indicator=true
+
+[worksets]
+cli-switch=''
+debug-mode=true
+disable-wallpaper-management=false
+hide-app-list=false
+isolate-workspaces=true
+reverse-menu=false
+show-helpers=true
+show-notifications=false
+show-overlay-thumbnail-labels=true
+show-panel-indicator=true
+show-workspace-overlay=true
+
+[workspace-indicator]
+embed-previews=false
