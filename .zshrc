@@ -77,7 +77,11 @@ alias vim='nvim'
 alias c='clear'
 alias tree='tree -C'
 alias lsd='eza --tree --level=3  --icons'
-alias air='~/.air'
+alias tat='tmux attack -t'
+alias tls='tmux ls'
+alias tkt='tmux kill-session -t'
+alias tks='tmux kill-server'
+alias tnt='tmux new -t'
 # Shell integrations
 eval "$(zoxide init --cmd cd zsh)"
 
@@ -85,3 +89,4 @@ export PATH="$PATH:/opt/nvim-linux64/bin"
 set -o ignoreeof
 IGNOREEOF=5
 export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:/home/sakshat/.cargo/bin
