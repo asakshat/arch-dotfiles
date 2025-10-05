@@ -14,4 +14,3 @@ set -g window-status-current-format ''
 # --- Right side: [ session] [ path] ---
 set -g status-right-length 150
 set -g status-right '#[fg=cyan] #S #[fg=magenta] #{pane_current_path} '
-
