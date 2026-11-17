@@ -1,0 +1,2 @@
+spawn-sh-at-startup "/usr/lib/polkit-kde-authentication-agen-1 &"
+spawn-at-startup "noctalia"

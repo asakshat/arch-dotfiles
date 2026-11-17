@@ -1,0 +1,17 @@
+input {
+    mod-key "Alt"
+    mod-key-nested "Super"
+    keyboard {
+        repeat-rate 35
+        repeat-delay 200
+       xkb {
+            layout "us"
+       } 
+    }
+ touchpad {
+     tap
+     natural-scroll
+ }
+ focus-follows-mouse max-scroll-amount="0%"
+ workspace-auto-back-and-forth
+}
